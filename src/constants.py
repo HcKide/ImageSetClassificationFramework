@@ -23,7 +23,7 @@ data_path = '../data/'
 coco_path = data_path + 'coco/'
 train_path = coco_path + 'train/'
 val_path = coco_path + 'val/'
-model_path = '../models/category_networks/ponyland2/'
+model_path = '../models/'
 sub_sets = data_path + 'sub_sets/'
 
 """Person is omitted in our research as it can be found in over half of the images in the training set, outshadowing 

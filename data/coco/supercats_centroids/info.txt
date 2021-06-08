@@ -1,0 +1,4 @@
+Numpy centroids calculated for every category, using the vgg feature layers. 
+
+Calculated on the training split (see global_split.zip).
+Used in calculating WFF.
