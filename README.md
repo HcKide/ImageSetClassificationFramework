@@ -11,7 +11,7 @@ Important! Before using this project there a few things to note:
 - The COCO dataset must be downloaded and placed in the appropriate folders, use the shellscript in coco/ for easy retrieval.
 - In the constants.py file, the data paths need to be edited to one's preferences if the data is located somewhere else. 
 
-Link to VGG models: (to appear)
+Link to VGG models: https://surfdrive.surf.nl/files/index.php/s/eTTQ7pV8UUsi9JM
 
 Project structure:
 ```
