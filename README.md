@@ -1,9 +1,9 @@
-# Image Set Classification Framework
-Public Repository for my Bachelor Thesis, 
+## Image Set Classification Framework
+Public Repository for my Bachelor Thesis in Artificial Intelligence, 
 Stijn Boosman
 
 Radboud University
-###Title:
+
 #### Understanding image set classifiers for future evaluation of adversarial profiles to gain control of our own privacy.
 
 Important! Before using this project there a few things to note:
