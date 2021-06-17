@@ -1,0 +1,6 @@
+In this folder we place all our users that are made according to thresholds. 
+In the paper we refer to it as applying our data recipe with 10%, 60% and 90%. 
+
+You can make your own users using the correct flags in artificial_users.py or unzip
+the file to get the exact partitions the research paper uses. 
+
