@@ -38,3 +38,5 @@ Project structure:
     └── ....                    <- All other source code files
 
 ```
+
+We recommend using Python 3.8 or higher. 
